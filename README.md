@@ -1,8 +1,8 @@
 # Controle Financeiro
 
-Projeto frontend React para praticar com base na videoaula do canal do youtube Will Dev. Foi usando styled-components e o backend foi simulando com o LocalStorage do navegador.
+Projeto frontend React para praticar com base na videoaula do canal do youtube **Will Dev**. Foi usando styled-components e o backend foi simulando com o LocalStorage do navegador.
 
-## 👀 Deploy: <a href="https://controle-financeiro-react-murex.vercel.app">Controle Financeiro</a>
+## 👀 Ver deploy! 👉 <a href="https://controle-financeiro-react-murex.vercel.app">Controle Financeiro</a>
 
 ## 🖼 Screenshots do projeto
 
